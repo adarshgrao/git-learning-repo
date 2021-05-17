@@ -1,2 +1,2 @@
-# linux-playground1
+# git-learning
 to understand git 
